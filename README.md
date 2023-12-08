@@ -1,0 +1,1 @@
+DjangoTweet is a web-based social networking platform that allows users to share short messages (tweets) with their followers, follow other users, discover trending topics, and engage in real-time conversations. The project aims to provide a user-friendly and scalable microblogging platform similar to Twitter
